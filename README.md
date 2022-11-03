@@ -22,7 +22,7 @@
 <b>Nois:</b> <i>https://explorer.stavr.tech/nois/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550</i><br>
 <b>Empower chain:</b> <i>https://explorer.stavr.tech/empower/staking/empowervaloper1xnwrml7mjnljwpyn0vw57sdwyuyc9xd7vnxj9j</i><br>
 <b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343</i><br><br>
-I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Rebus, Gear, Uptick, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
+I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Rebus, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
 <b>Discord:</b><i> Jaha#9160</i><br>
