@@ -1,4 +1,4 @@
-<h4>Hello! My name is Dmitrii. I am a backend developer (and linux enthusiast) with over 5 years of experience (on Python/JavaScript/C/Bash). And also I am an individual validator and node runner. I participated in many testnets and mainnets on Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Grafana and Prometheus, Telegram bots and specific scripts).</h4>
+<h4>Hello! My name is Dmitrii.<br> I am a backend developer (and linux enthusiast) with over 5 years of experience (on Python/JavaScript/C/Bash). And also I am an individual validator and node runner. I participated in many testnets and mainnets on Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Grafana and Prometheus, Telegram bots and specific scripts).</h4>
 <hr>
 <h3>My mainnets</h3> 
 <b>Kujira:</b> <i>https://blue.kujira.app/stake/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
