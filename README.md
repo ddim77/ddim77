@@ -1,4 +1,4 @@
-<img src="header1.jpg" width="100%">
+<img src="header2.jpg" width="100%">
 <h4>Hello! My name is Dmitrii. I am a backend developer (and linux enthusiast) with over 5 years of experience (on Python/JavaScript/C/Bash). And also I am an individual validator and node runner. I participated in many testnets and mainnets on Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Grafana and Prometheus, Telegram bots and specific scripts).</h4>
 <hr>
 <h3>My mainnets</h3> 
@@ -25,3 +25,7 @@
 <b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343</i><br><br>
 I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Rebus, Gear, Uptick, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
+Telegram: https://t.me/jaha888
+Discord: Jaha#9160
+e-mail: dmitrii.jaha@gmail.com
+
