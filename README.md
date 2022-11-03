@@ -25,9 +25,6 @@
 <b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343</i><br><br>
 I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Rebus, Gear, Uptick, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
-<div align="center">
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
 <b>Discord:</b><i> Jaha#9160</i><br>
 <b>e-mail:</b><i> dmitrii.jaha@gmail.com</i>
-</div>
-
