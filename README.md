@@ -1,6 +1,4 @@
-<h5>Hello! My name is Dmitrii. I am a backend developer (and linux enthusiast) with over 5 years of experience (on Python/JavaScript/C/Bash).<br>
-And also I am an individual validator and node runner. I participated in many testnets and mainnets on Cosmos, Polkadot and others Pos/PoW networks.<br>
-I work with reliable hardware and have 24/7 monitoring using various tools (such as Grafana and Prometheus, Telegram bots and specific scripts).</h5>
+<h4>Hello! My name is Dmitrii. I am a backend developer (and linux enthusiast) with over 5 years of experience (on Python/JavaScript/C/Bash). And also I am an individual validator and node runner. I participated in many testnets and mainnets on Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Grafana and Prometheus, Telegram bots and specific scripts).</h4>
 <hr>
 <h3>My mainnets</h3> 
 <b>Kujira:</b> <i>https://blue.kujira.app/stake/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
@@ -13,13 +11,16 @@ I work with reliable hardware and have 24/7 monitoring using various tools (such
 <b>BeeZee:</b> <i>https://explorer.erialos.me/beezee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
 <hr>
 <h3>Active testnets</h3> 
-<b>Nomic:</b> <i>https://testnet.nomic.io/#/staking)</i><br>
-<b>KYVE:</b> <i>https://explorer.kyve.network/korellia/staking/kyvevaloper17axjwh2jd9tatvx42n4v22degd7nma7aquhvpe)</i><br>
-<b>Uptick:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr)</i><br>
-<b>Ironfish:</b> <i>https://testnet.ironfish.network/users/801)</i><br>
-<b>Obol:</b> <i>https://prater.beaconcha.in/validator/a885dc062876b52fd966aab9d4b81735a1f78986d0540d9edbf8bad0d1fdd4d1427598f5d6971a701f67bd7971c403c3#attestations)</i><br>
-<b>DWS:</b> <i>https://explore.deweb.services/deweb/staking/dewebvaloper1q4ek4x3ct6jl42ckpnjc7u7a9ggwdjq7ahhwsy)</i><br> 
-<b>Nois:</b> <i>https://explorer.stavr.tech/nois/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550)</i><br>
-<b>Source protocol:</b> <i>https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd)</i><br>
-<b>Empower chain:</b> <i>https://explorer.stavr.tech/empower/staking/empowervaloper1xnwrml7mjnljwpyn0vw57sdwyuyc9xd7vnxj9j)</i><br>
-<b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343)</i><br>
+<b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
+<b>KYVE:</b> <i>https://explorer.kyve.network/korellia/staking/kyvevaloper17axjwh2jd9tatvx42n4v22degd7nma7aquhvpe</i><br>
+<b>Teritori:</b> <i>https://explorer.kjnodes.com/teritori/staking/torivaloper1ycp8k69ka5ynps2za8kqr7rwk5kwc23q9ag6yt)</i><br>
+<b>Nibiru:</b> <i>https://texplorer.stavr.tech/nibiru/staking/nibivaloper188suhk9nr0j4vz4h3snwe5u72hk4eeak7vh78f</i><br>
+<b>Uptick:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
+<b>Ironfish:</b> <i>https://testnet.ironfish.network/users/801</i><br>
+<b>DWS:</b> <i>https://explore.deweb.services/deweb/staking/dewebvaloper1q4ek4x3ct6jl42ckpnjc7u7a9ggwdjq7ahhwsy</i><br> 
+<b>Nois:</b> <i>https://explorer.stavr.tech/nois/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550</i><br>
+<b>Source protocol:</b> <i>https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
+<b>Empower chain:</b> <i>https://explorer.stavr.tech/empower/staking/empowervaloper1xnwrml7mjnljwpyn0vw57sdwyuyc9xd7vnxj9j</i><br>
+<b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343</i><br><br>
+I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Rebus, Gear, Uptick, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
+<hr>
