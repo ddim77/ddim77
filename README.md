@@ -2,7 +2,7 @@
 <h4>Hello! My name is Dmitrii. I am a backend developer (and linux enthusiast) with over 5 years of experience (on Python/JavaScript/C/Bash). And also I am an individual validator and node runner. I participated in many testnets and mainnets on Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Grafana and Prometheus, Telegram bots and specific scripts).</h4>
 <hr>
 <h3>My mainnets</h3> 
-<b>Kujira:</b> <i>https://blue.kujira.app/stake/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
+<b>Kujira:</b> <i>https://ping.pub/kujira/staking/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
 <b>Lambda network:</b> <i>https://explorer.nodestake.top/lambda/staking/lambvaloper1w9pm8d2fn3s53pky0dhlsfngx0dxupk7tml7y7</i><br>
 <b>Canto:</b> <i>https://explorer.nodestake.top/canto/staking/cantovaloper13qccpwka4rp9kyzat3rrf3eucgjltzwztwre4u</i><br>
 <b>Genesis L1:</b> <i>https://ping.pub/genesisl1/staking/genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp</i><br>
