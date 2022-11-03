@@ -26,4 +26,4 @@ I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride,
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
 <b>Discord:</b><i> Jaha#9160</i><br>
-<b>e-mail:</b><i> dmitrii.jaha@gmail.com</i>
+<b>E-mail:</b><i> dmitrii.jaha@gmail.com</i>
