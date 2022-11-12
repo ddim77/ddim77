@@ -15,7 +15,7 @@
 <h3>Active testnets</h3> 
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
 <b>KYVE:</b> <i>https://explorer.kyve.network/korellia/staking/kyvevaloper17axjwh2jd9tatvx42n4v22degd7nma7aquhvpe</i><br>
-<b>Teritori:</b> <i>https://explorer.kjnodes.com/teritori/staking/torivaloper1ycp8k69ka5ynps2za8kqr7rwk5kwc23q9ag6yt)</i><br>
+<b>Teritori:</b> <i>https://explorer.kjnodes.com/teritori/staking/torivaloper1ycp8k69ka5ynps2za8kqr7rwk5kwc23q9ag6yt</i><br>
 <b>Nibiru:</b> <i>https://texplorer.stavr.tech/nibiru/staking/nibivaloper188suhk9nr0j4vz4h3snwe5u72hk4eeak7vh78f</i><br>
 <b>Uptick:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Gitopia:</b> <i>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
