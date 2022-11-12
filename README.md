@@ -3,6 +3,7 @@
 <hr>
 <h3>My mainnets</h3> 
 <b>Kujira:</b> <i>https://ping.pub/kujira/staking/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
+<b>Jackal:</b> <i>https://explorer.ppnv.space/jackal/staking/jklvaloper1n0vm5662fk2dzu0hj47hp04q4cmj4jgjt46j8c</i><br>
 <b>Lambda network:</b> <i>https://explorer.nodestake.top/lambda/staking/lambvaloper1w9pm8d2fn3s53pky0dhlsfngx0dxupk7tml7y7</i><br>
 <b>Canto:</b> <i>https://explorer.nodestake.top/canto/staking/cantovaloper13qccpwka4rp9kyzat3rrf3eucgjltzwztwre4u</i><br>
 <b>Genesis L1:</b> <i>https://ping.pub/genesisl1/staking/genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp</i><br>
@@ -17,6 +18,10 @@
 <b>Teritori:</b> <i>https://explorer.kjnodes.com/teritori/staking/torivaloper1ycp8k69ka5ynps2za8kqr7rwk5kwc23q9ag6yt)</i><br>
 <b>Nibiru:</b> <i>https://texplorer.stavr.tech/nibiru/staking/nibivaloper188suhk9nr0j4vz4h3snwe5u72hk4eeak7vh78f</i><br>
 <b>Uptick:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
+<b>Gitopia:</b> <i>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
+<b>Neutron:</b> <i>https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1vs2rk7g88apr0tswllh3sz9qmr6ytfqy24aqyp</i><br>
+<b>OKP-4:</b> <i>https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1njj25f5nrqjymd8ftsfcx7n0a7su3sla3m5lsz</i><br>
+<b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
 <b>Ironfish:</b> <i>https://testnet.ironfish.network/users/801</i><br>
 <b>DWS:</b> <i>https://explore.deweb.services/deweb/staking/dewebvaloper1q4ek4x3ct6jl42ckpnjc7u7a9ggwdjq7ahhwsy</i><br> 
 <b>Nois:</b> <i>https://explorer.stavr.tech/nois/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550</i><br>
