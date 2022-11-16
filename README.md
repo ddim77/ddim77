@@ -5,7 +5,6 @@
 <b>Kujira:</b> <i>https://ping.pub/kujira/staking/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
 <b>Jackal:</b> <i>https://explorer.ppnv.space/jackal/staking/jklvaloper1n0vm5662fk2dzu0hj47hp04q4cmj4jgjt46j8c</i><br>
 <b>Lambda network:</b> <i>https://explorer.nodestake.top/lambda/staking/lambvaloper1w9pm8d2fn3s53pky0dhlsfngx0dxupk7tml7y7</i><br>
-<b>Canto:</b> <i>https://explorer.nodestake.top/canto/staking/cantovaloper13qccpwka4rp9kyzat3rrf3eucgjltzwztwre4u</i><br>
 <b>Genesis L1:</b> <i>https://ping.pub/genesisl1/staking/genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp</i><br>
 <b>Meme:</b> <i>https://ping.pub/meme/staking/memevaloper1hxclfggkuc8s25ps54fceqmlfmxgep4jefvjk9</i><br>
 <b>Provenance:</b> <i>https://ping.pub/provenance/staking/pbvaloper1pptkse3899rxm2jjfsr5fu0res0y8yk2wk9naj</i><br> 
