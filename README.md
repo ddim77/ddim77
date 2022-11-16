@@ -10,7 +10,7 @@
 <b>Provenance:</b> <i>https://ping.pub/provenance/staking/pbvaloper1pptkse3899rxm2jjfsr5fu0res0y8yk2wk9naj</i><br> 
 <b>Vidulum:</b> <i>https://explorer.erialos.me/vidulum/staking/vdlvaloper13pvsjtk4ehz6cxv8qpsjs7p07pegdm5j2mmerz</i><br>
 <b>BeeZee:</b> <i>https://explorer.erialos.me/beezee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
-<b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee</i><br><br>
+<b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee</i><br>
 <hr>
 <h3>Active testnets</h3> 
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
