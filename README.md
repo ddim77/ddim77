@@ -10,6 +10,8 @@
 <b>Provenance:</b> <i>https://ping.pub/provenance/staking/pbvaloper1pptkse3899rxm2jjfsr5fu0res0y8yk2wk9naj</i><br> 
 <b>Vidulum:</b> <i>https://explorer.erialos.me/vidulum/staking/vdlvaloper13pvsjtk4ehz6cxv8qpsjs7p07pegdm5j2mmerz</i><br>
 <b>BeeZee:</b> <i>https://explorer.erialos.me/beezee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
+<b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee</i><br><br>
+
 <hr>
 <h3>Active testnets</h3> 
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
@@ -25,7 +27,7 @@
 <b>DWS:</b> <i>https://explore.deweb.services/deweb/staking/dewebvaloper1q4ek4x3ct6jl42ckpnjc7u7a9ggwdjq7ahhwsy</i><br> 
 <b>Nois:</b> <i>https://explorer.stavr.tech/nois/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550</i><br>
 <b>Empower chain:</b> <i>https://explorer.stavr.tech/empower/staking/empowervaloper1xnwrml7mjnljwpyn0vw57sdwyuyc9xd7vnxj9j</i><br>
-<b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xb10e573169aaaa74d14931e98d414a8a631dd3bc6dda31101061ed3b7c2cb343</i><br><br>
+<b>Joystream:</b><i>https://telemetry.polkadot.io/#list/0x6b9847d615232517b5c2edf9889610557818f97126339b5beff6763eca55c606</i><br><br>
 I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Rebus, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
