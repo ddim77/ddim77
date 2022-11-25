@@ -19,7 +19,6 @@
 <b>Uptick:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Gitopia:</b> <i>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
 <b>Neutron:</b> <i>https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1vs2rk7g88apr0tswllh3sz9qmr6ytfqy24aqyp</i><br>
-<b>OKP-4:</b> <i>https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1njj25f5nrqjymd8ftsfcx7n0a7su3sla3m5lsz</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
 <b>Ironfish:</b> <i>https://testnet.ironfish.network/users/801</i><br>
 <b>DWS:</b> <i>https://explore.deweb.services/deweb/staking/dewebvaloper1q4ek4x3ct6jl42ckpnjc7u7a9ggwdjq7ahhwsy</i><br> 
