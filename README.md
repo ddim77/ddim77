@@ -17,12 +17,12 @@
 <b>Nibiru:</b> <i>https://texplorer.stavr.tech/nibiru/staking/nibivaloper188suhk9nr0j4vz4h3snwe5u72hk4eeak7vh78f</i><br>
 <b>Uptick:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Gitopia:</b> <i>https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
-<b>Neutron:</b> <i>https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1vs2rk7g88apr0tswllh3sz9qmr6ytfqy24aqyp</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
 <b>Ironfish:</b> <i>https://testnet.ironfish.network/users/801</i><br>
-<b>DWS:</b> <i>https://explore.deweb.services/deweb/staking/dewebvaloper1q4ek4x3ct6jl42ckpnjc7u7a9ggwdjq7ahhwsy</i><br> 
 <b>Nois:</b> <i>https://explorer.stavr.tech/nois/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550</i><br>
-<b>Empower chain:</b> <i>https://explorer.stavr.tech/empower/staking/empowervaloper1xnwrml7mjnljwpyn0vw57sdwyuyc9xd7vnxj9j</i><br>
+<b>Nolus:</b> <i>https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper140dhke9qvn2pzqml25fledgkv33xu85ncekr3t</i><br>
+<b>Humans:</b> <i>https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1r6ezuerc0x3q26t83hhenw8enca58aqyjllzdg</i><br>
+<b>Realio:</b> <i>https://explorer.stavr.tech/realio/staking/realiovaloper157p0qrkg0c638djfx3ldanmxg4ks0lapya7hzp</i><br>
 <b>Joystream:</b> <i>https://telemetry.polkadot.io/#list/0x6b9847d615232517b5c2edf9889610557818f97126339b5beff6763eca55c606</i><br><br>
 I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Teritori, OKP4, Rebus, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
