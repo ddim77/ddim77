@@ -25,7 +25,7 @@
 <b>Humans:</b> <i>https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1r6ezuerc0x3q26t83hhenw8enca58aqyjllzdg</i><br>
 <b>Realio:</b> <i>https://explorer.stavr.tech/realio/staking/realiovaloper157p0qrkg0c638djfx3ldanmxg4ks0lapya7hzp</i><br>
 <b>Joystream:</b> <i>https://telemetry.polkadot.io/#list/0x6b9847d615232517b5c2edf9889610557818f97126339b5beff6763eca55c606</i><br><br>
-I also participated in Quicksilver, APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
+I also participated in APTOS, SUI, Quai, Massa, MASA, Obol, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
 <b>Discord:</b><i> Jaha#9160</i><br>
