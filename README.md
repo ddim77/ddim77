@@ -15,6 +15,8 @@
 <h3>Active testnets</h3>
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
 <b>KYVE:</b> <i>https://explorer.kyve.network/korellia/staking/kyvevaloper17axjwh2jd9tatvx42n4v22degd7nma7aquhvpe</i><br>
+<b>Dymension:</b> <i>https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper1aass5y6r6uchj4gj0dwj46auge5flf6luz3duw</i><br>
+<b>Althea:</b> <i>https://explorer.stavr.tech/althea-testnet/staking/altheavaloper10pn06flmyyv2qq2e2u6dpjtnkvkdystpn239sk</i><br>
 <b>Nois:</b> <i>https://explorer.stavr.tech/nois/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550</i><br>
 <b>Nolus:</b> <i>https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper140dhke9qvn2pzqml25fledgkv33xu85ncekr3t</i><br>
 <b>Lava:</b> <i>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
