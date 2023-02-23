@@ -25,8 +25,12 @@
 <b>Uptick:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
 <b>Ironfish:</b> <i>https://testnet.ironfish.network/users/801</i><br>
-<b>Obol:</b> <i>https://prater.beaconcha.in/validator/8a4e1b747d47925746be3ba3b755cde35bc1866f152eed2fac740a41710c9855caac8ee5933fab3ab61c89ad8fcccada#attestations</i><br><br>
-I also participated in APTOS, SUI, Taiko, Quai, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
+<b>Obol:</b> <i>https://prater.beaconcha.in/validator/8a4e1b747d47925746be3ba3b755cde35bc1866f152eed2fac740a41710c9855caac8ee5933fab3ab61c89ad8fcccada#attestations</i><br>
+<b>Taiko</b><br>
+<b>Fleek</b><br>
+<b>Elixir<br>
+<br><br>
+I also participated in APTOS, SUI, Quai, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
 <b>Discord:</b><i> Jaha#9160</i><br>
