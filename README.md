@@ -6,7 +6,6 @@
 <b>Kujira:</b> <i>https://ping.pub/kujira/staking/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
 <b>Quicksilver:</b> <i>https://explorer.stavr.tech/quicksilver-mainnet/staking/quickvaloper1fahknp953zh6h48xmdn3ugahcag0e3vzjp9v8g</i><br>
 <b>Genesis L1:</b> <i>https://ping.pub/genesisl1/staking/genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp</i><br>
-<b>Lambda network:</b> <i>https://explorer.nodestake.top/lambda/staking/lambvaloper1w9pm8d2fn3s53pky0dhlsfngx0dxupk7tml7y7</i><br>
 <b>Vidulum:</b> <i>https://explorer.erialos.me/vidulum/staking/vdlvaloper13pvsjtk4ehz6cxv8qpsjs7p07pegdm5j2mmerz</i><br>
 <b>BeeZee:</b> <i>https://explorer.erialos.me/beezee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
 <b>Meme:</b> <i>https://ping.pub/meme/staking/memevaloper1hxclfggkuc8s25ps54fceqmlfmxgep4jefvjk9</i><br>
