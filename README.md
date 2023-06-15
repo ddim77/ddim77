@@ -23,7 +23,7 @@
 <b>Lava:</b> <i>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
 <b>Uptick testnet:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br><br>
-<b>Also, projects such as EYWA, Taiko, Fleek, Parastate, Muon and Elixir</b><br><br>
+<b>Also, projects such as EYWA (testnet), Taiko, Fleek, Parastate, Muon and Elixir</b><br><br>
 I also participated in APTOS, SUI, Quai, OBOL, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, Humans, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
