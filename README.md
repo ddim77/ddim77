@@ -19,7 +19,6 @@
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
 <b>Althea:</b> <i>https://explorer.stavr.tech/althea-testnet/staking/altheavaloper10pn06flmyyv2qq2e2u6dpjtnkvkdystpn239sk</i><br>
 <b>Ojo:</b> <i>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1q2d4upj9z64cpx6dhf99hultd9qtwc529mrm3y</i><br>
-<b>Nolus:</b> <i>https://explorer-rila.nolus.io/nolus-rila/staking/nolusvaloper140dhke9qvn2pzqml25fledgkv33xu85ncekr3t</i><br>
 <b>Lava:</b> <i>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
 <b>Uptick testnet:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
