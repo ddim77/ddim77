@@ -11,6 +11,7 @@
 <b>Genesis L1:</b> <i>https://ping.pub/genesisl1/staking/genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp</i><br>
 <b>BeeZee:</b> <i>https://explorer.erialos.me/beezee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
 <b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee</i><br>
+<b>EYWA:</b> <i>https://explorer.eywa.fi/validators</i><br>
 <hr>
 <h3>Active testnets</h3>
 <b>Celestia:</b> <i>https://tiascan.com/light-node/12D3KooWT32YHy2cRi3E6BaJyeGEiZ5zLXAk8WmjHMTYjFrJeFRA</i><br>
