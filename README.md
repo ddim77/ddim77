@@ -7,7 +7,6 @@
 <b>Kujira:</b> <i>https://ping.pub/kujira/staking/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
 <b>Gitopia:</b> <i>https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
 <b>Uptick:</b> <i>https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
-<b>Nois:</b> <i>https://explorer.stavr.tech/nois-mainnet/staking/noisvaloper1knljz5pa3uyh7n83e54p6x4u0g3crdjl8qy550</i><br>
 <b>Genesis L1:</b> <i>https://ping.pub/genesisl1/staking/genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp</i><br>
 <b>BeeZee:</b> <i>https://explorer.erialos.me/beezee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
 <b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee</i><br>
@@ -21,7 +20,6 @@
 <b>Althea:</b> <i>https://explorer.stavr.tech/althea-testnet/staking/altheavaloper10pn06flmyyv2qq2e2u6dpjtnkvkdystpn239sk</i><br>
 <b>Ojo:</b> <i>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1q2d4upj9z64cpx6dhf99hultd9qtwc529mrm3y</i><br>
 <b>Lava:</b> <i>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
-<b>Uptick testnet:</b> <i>https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br><br>
 <b>Also, projects such as EYWA (testnet), Taiko, Fleek, Parastate, Muon and Elixir</b><br><br>
 I also participated in APTOS, SUI, Quai, OBOL, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, Humans, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
