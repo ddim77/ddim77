@@ -24,5 +24,5 @@
 I also participated in APTOS, SUI, Quai, OBOL, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, Lava, Humans, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
-<b>Discord:</b><i> Jaha#9160</i><br>
+<b>Discord:</b><i> jaha888</i><br>
 <b>E-mail:</b><i> dmitrii.jaha@gmail.com</i>
