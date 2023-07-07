@@ -17,7 +17,7 @@
 <b>KYVE:</b> <i>https://explorer.kyve.network/korellia/staking/kyvevaloper17axjwh2jd9tatvx42n4v22degd7nma7aquhvpe</i><br>
 <b>Dymension:</b> <i>https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper1aass5y6r6uchj4gj0dwj46auge5flf6luz3duw</i><br>
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
-<b>Althea:</b> <i>https://explorer.stavr.tech/althea-testnet/staking/altheavaloper10pn06flmyyv2qq2e2u6dpjtnkvkdystpn239sk</i><br>
+<b>Althea:</b> <i>https://explorer.stavr.tech/althea-testnetl1/staking/altheavaloper1dqekcqh2ha6d0jgrx339gvk89ax87vcy6275zh</i><br>
 <b>Ojo:</b> <i>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1q2d4upj9z64cpx6dhf99hultd9qtwc529mrm3y</i><br>
 <b>Lava:</b> <i>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br><br>
