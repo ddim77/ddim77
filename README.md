@@ -19,10 +19,9 @@
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
 <b>Althea:</b> <i>https://explorer.stavr.tech/althea-testnetl1/staking/altheavaloper1dqekcqh2ha6d0jgrx339gvk89ax87vcy6275zh</i><br>
 <b>Ojo:</b> <i>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1q2d4upj9z64cpx6dhf99hultd9qtwc529mrm3y</i><br>
-<b>Lava:</b> <i>https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
 <b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br><br>
 <b>Also, projects such as EYWA (testnet), Taiko, Fleek, Parastate, Muon and Elixir</b><br><br>
-I also participated in APTOS, SUI, Quai, OBOL, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, Humans, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
+I also participated in APTOS, SUI, Quai, OBOL, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, Lava, Humans, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
 <b>Discord:</b><i> Jaha#9160</i><br>
