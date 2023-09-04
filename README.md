@@ -8,7 +8,6 @@
 <b>KYVE pools:</b> <i>https://app.kyve.network/#/validators/kyve17axjwh2jd9tatvx42n4v22degd7nma7ajvhv0m</i><br>
 <b>Gitopia:</b> <i>https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
 <b>Uptick:</b> <i>https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
-<b>Genesis L1:</b> <i>https://ping.pub/genesisl1/staking/genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp</i><br>
 <b>BeeZee:</b> <i>https://explorer.erialos.me/beezee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
 <b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee</i><br>
 <b>EYWA:</b> <i>https://explorer.eywa.fi/validators</i><br>
