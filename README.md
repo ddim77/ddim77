@@ -3,8 +3,9 @@
 <hr>
 <h3>My mainnets</h3> 
 <b>Quicksilver:</b> <i>https://explorer.stavr.tech/quicksilver-mainnet/staking/quickvaloper1fahknp953zh6h48xmdn3ugahcag0e3vzjp9v8g</i><br>
-<b>Jackal:</b> <i>https://explorer.stavr.tech/jackal/staking/jklvaloper1n0vm5662fk2dzu0hj47hp04q4cmj4jgjt46j8c</i><br>
 <b>Kujira:</b> <i>https://ping.pub/kujira/staking/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
+<b>Jackal:</b> <i>https://explorer.stavr.tech/jackal/staking/jklvaloper1n0vm5662fk2dzu0hj47hp04q4cmj4jgjt46j8c</i><br>
+<b>HAQQ:</b> <i>https://explorer.stavr.tech/HAQQ-Mainnet/staking/haqqvaloper1dst2tpserk080w4yh7xcusecqdf7yegpw424xj</i><br>
 <b>KYVE pools:</b> <i>https://app.kyve.network/#/validators/kyve17axjwh2jd9tatvx42n4v22degd7nma7ajvhv0m</i><br>
 <b>Gitopia:</b> <i>https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
 <b>Uptick:</b> <i>https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
