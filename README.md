@@ -20,7 +20,7 @@
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
 <b>Althea:</b> <i>https://explorer.stavr.tech/althea-testnetl1/staking/altheavaloper1dqekcqh2ha6d0jgrx339gvk89ax87vcy6275zh</i><br>
 <b>Ojo:</b> <i>https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1q2d4upj9z64cpx6dhf99hultd9qtwc529mrm3y</i><br>
-<b>Source:</b> <i>https://explorer.stavr.tech/source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br><br>
+<b>Source testnet:</b> <i>https://explorer.stavr.tech/Source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br><br>
 <b>Also, projects such as EYWA (testnet), Taiko, Fleek, Parastate, Muon and Elixir</b><br><br>
 I also participated in APTOS, SUI, Quai, OBOL, Massa, MASA, Dymension, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, Lava, Humans, DWS, Gear, Tgrade, Zeitgeist, Celestia, Ternoa, GAME and other testnets.
 <hr>
