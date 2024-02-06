@@ -1,7 +1,8 @@
 <img src="header2.jpg" width="100%">
 <h4>Hello! My name is Dmitrii. I am a backend developer with more than 5 years of programming and system administration experience.<br> My stack: Python/Flask, Node.js, some C, Linux Ubuntu/Kali, Bash.<br><br> Also I am an individual validator and node runner. This has been my main activity lately. I participated in many testnets and mainnets on Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Zabbix, Grafana and Prometheus, Telegram bots and specific scripts).</h4>
 <hr>
-<h3>My mainnets</h3> 
+<h3>My mainnets</h3>
+<b>Dymension:</b> <i>https://explorer.stavr.tech/Dymension-Mainnet/staking/dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f</i><br>
 <b>Quicksilver:</b> <i>https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper1fahknp953zh6h48xmdn3ugahcag0e3vzjp9v8g</i><br>
 <b>Kujira:</b> <i>https://ping.pub/kujira/staking/kujiravaloper1ghwv3s297fcqqunrfjqlvrjqf27pkwaqk263cs</i><br>
 <b>Jackal:</b> <i>https://explorer.stavr.tech/Jackal/staking/jklvaloper1n0vm5662fk2dzu0hj47hp04q4cmj4jgjt46j8c</i><br>
