@@ -12,7 +12,6 @@
 <b>Uptick:</b> <i>https://explorer.stavr.tech/Uptick-Mainnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Source protocol:</b> <i>https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
 <b>BeeZee:</b> <i>https://explorer.stavr.tech/BeeZee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
-<b>Humanode:</b> <i>https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee</i><br>
 <b>EYWA:</b> <i>https://explorer.eywa.fi/validators</i><br>
 <hr>
 <h3>Active testnets</h3>
