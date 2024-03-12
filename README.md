@@ -15,14 +15,11 @@
 <b>EYWA:</b> <i>https://explorer.eywa.fi/validators</i><br>
 <hr>
 <h3>Active testnets</h3>
-<b>Dymension:</b> <i>https://explorer.stavr.tech/Dymension-testnet/staking/dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f</i><br>
-<b>Dymension Rollapp:</b> <i>https://portal.dymension.xyz/rollapp/jaha_6503833-1</i><br>
-<b>KYVE (Kaon):</b> <i>https://explorer.kyve.network/kaon/staking/kyvevaloper17axjwh2jd9tatvx42n4v22degd7nma7aquhvpe</i><br>
+<b>Dymension devnet:</b> <i>https://explorer.stavr.tech/Dymension-testnet/staking/dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f</i><br>
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
-<b>Althea:</b> <i>https://explorer.stavr.tech/Althea-testnetL1/staking/altheavaloper1dqekcqh2ha6d0jgrx339gvk89ax87vcy6275zh</i><br>
 <b>Ojo:</b> <i>https://explorer.stavr.tech/Ojo-Devnet/staking/ojovaloper1q2d4upj9z64cpx6dhf99hultd9qtwc529mrm3y</i><br>
 <b>Source testnet:</b> <i>https://explorer.stavr.tech/Source/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br><br>
-Also, projects such as <b>EYWA (testnet) / Taiko / Fleek / Parastate / Muon / Elixir</b><br><br>
+Also, projects such as <b>EYWA(testnet) / Taiko / Fleek / Parastate / Muon / Elixir</b><br><br>
 I also participated in Celestia, APTOS, SUI, Quai, OBOL, Massa, MASA, Stride, Sei network, Teritori, OKP4, Rebus, Empower chain, Lava, Humans, DWS, Gear, Tgrade, Zeitgeist, Ternoa, GAME and other testnets.
 <hr>
 <b>Telegram:</b><i> https://t.me/jaha888</i><br>
