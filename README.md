@@ -1,5 +1,5 @@
 <img src="header2.jpg" width="100%">
-<h4>Hello! My name is Dmitrii. I am a backend developer with more than 5 years of programming and system administration experience.<br> My stack: Python/Flask, Node.js, some C, Linux Ubuntu/Kali, Bash.<br><br> Also I am an individual validator and node runner. This has been my main activity lately. I participated in many testnets and mainnets on Ethereum, Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Zabbix, Grafana and Prometheus, Telegram bots and specific scripts).</h4>
+<h4>Hello! My name is Dmitrii. I am a backend developer with more than 5 years of programming and system administration experience.<br> Also I am an individual validator and node runner. This has been my main activity lately. I participated in many testnets and mainnets on Ethereum, Cosmos, Polkadot and others Pos/PoW networks. I work with reliable hardware and have 24/7 monitoring using various tools (such as Zabbix, Grafana and Prometheus, Telegram bots and specific scripts).</h4>
 <hr>
 <h3>My mainnets</h3>
 <b>Dymension:</b> <i>https://explorer.stavr.tech/Dymension-Mainnet/staking/dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f</i><br>
