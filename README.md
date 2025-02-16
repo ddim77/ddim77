@@ -6,6 +6,7 @@
 <b>Quicksilver:</b> <i>https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper1fahknp953zh6h48xmdn3ugahcag0e3vzjp9v8g</i><br>
 <b>Jackal:</b> <i>https://explorer.stavr.tech/Jackal/staking/jklvaloper1n0vm5662fk2dzu0hj47hp04q4cmj4jgjt46j8c</i><br>
 <b>Stargaze:</b> <i>https://ping.pub/stargaze/staking/starsvaloper1nx5mxte0hxf7v8az30elgqqycjjx8qt7m2c7fv</i><br>
+<b>LAVA:</b> <i>https://explorer.stavr.tech/Lava-Mainnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
 <b>KYVE:</b> <i>https://explorer.stavr.tech/Kyve/staking/kyvevaloper17axjwh2jd9tatvx42n4v22degd7nma7aquhvpe</i><br>
 <b>Gitopia:</b> <i>https://explorer.stavr.tech/Gitopia-M/staking/gitopiavaloper1hh56y4lps3wg95a2mfdghff4d9f2dc992nctvy</i><br>
 <b>Uptick:</b> <i>https://explorer.stavr.tech/Uptick-Mainnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
