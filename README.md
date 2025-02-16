@@ -11,6 +11,53 @@
 <b>Uptick:</b> <i>https://explorer.stavr.tech/Uptick-Mainnet/staking/uptickvaloper13qfah88u6kpmwd74hqyjwmk6j062cnfhgtmazr</i><br>
 <b>Source protocol:</b> <i>https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper1fyufmdxujjpcez88uwcxlccs0th23sf5m7qhyd</i><br>
 <b>BeeZee:</b> <i>https://explorer.stavr.tech/BeeZee/staking/bzevaloper1xp8kasne7dakz9h07xju73t8vvdjgm039sqqvq</i><br>
+
+<table>
+    <tr>
+        <td><img src="dymension.png" alt="Image 1"></td>
+        <td><a href="https://example.com/link1">Ссылка 1</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 2"></td>
+        <td><a href="https://example.com/link2">Ссылка 2</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 3"></td>
+        <td><a href="https://example.com/link3">Ссылка 3</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 4"></td>
+        <td><a href="https://example.com/link4">Ссылка 4</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 5"></td>
+        <td><a href="https://example.com/link5">Ссылка 5</a></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td><img src="dymension.png" alt="Image 6"></td>
+        <td><a href="https://example.com/link6">Ссылка 6</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 7"></td>
+        <td><a href="https://example.com/link7">Ссылка 7</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 8"></td>
+        <td><a href="https://example.com/link8">Ссылка 8</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 9"></td>
+        <td><a href="https://example.com/link9">Ссылка 9</a></td>
+    </tr>
+    <tr>
+        <td><img src="dymension.png" alt="Image 10"></td>
+        <td><a href="https://example.com/link10">Ссылка 10</a></td>
+    </tr>
+</table>
+
 <hr>
 <h3>Active testnets</h3>
 <b>Nomic:</b> <i>https://testnet.nomic.io/#/staking</i><br>
