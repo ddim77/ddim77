@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td style="width:30%;"><img src="dymension.png" alt="Dymension"></td>
-        <td style="width:70%;"><h3>Dymension</h3>h3<br><a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f&step_id=2">Stake in Keplr >></a></td>
+        <td style="width:70%;"><h3>Dymension</h3><a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f&step_id=2">Stake in Keplr >></a></td>
     </tr>
     <tr>
         <td><img src="stargaze.png" alt="Stargaze"></td>
