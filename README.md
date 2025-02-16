@@ -8,7 +8,7 @@
             <img src="dymension.png" alt="Image 1" style="max-width: 100%; border: none;">
         </td>
         <td style="width: 70%; padding: 10px; text-align: left; font-size: 18px;">
-            Dymension<br><a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f&step_id=2" style="text-decoration: none; color: #007bff;">Stake in Keplr</a>
+            Dymension<a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f&step_id=2" style="text-decoration: none; color: #007bff;">Stake in Keplr</a>
         </td>
     </tr>
 </table>
