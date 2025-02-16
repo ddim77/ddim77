@@ -3,13 +3,12 @@
 <hr>
 <h2>My mainnets</h2>
 <table style="border-collapse: collapse; width: 100%;">
-    <tr style="border-radius: 15px; background-color: #f0f0f0; overflow: hidden;">
+    <tr style="border-radius: 15px; overflow: hidden; background-color: #f0f0f0;">
         <td style="width: 30%; padding: 10px; text-align: center;">
-            <img src="dymension.png" alt="Dymension" style="max-width: 50%; border: none;">
+            <img src="dymension.png" alt="Image 1" style="max-width: 100%; border: none;">
         </td>
-        <td style="width: 70%; padding: 10px; font-size: 20px; text-align: left;">
-            Dymension<br>
-            <a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f&step_id=2" style="text-decoration: none; color: #007bff;">Stake in Keplr >></a>
+        <td style="width: 70%; padding: 10px; text-align: left; font-size: 18px;">
+            Dymension<br><a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f&step_id=2" style="text-decoration: none; color: #007bff;">Stake in Keplr</a>
         </td>
     </tr>
 </table>
