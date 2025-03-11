@@ -3,7 +3,6 @@
 <hr>
 <h3>My mainnets</h3>
 <b>Dymension:</b> <i>https://explorer.stavr.tech/Dymension-Mainnet/staking/dymvaloper1pncst8xyy86956pgjejk4yfnn7ls89dzhkmw5f</i><br>
-<b>Quicksilver:</b> <i>https://explorer.stavr.tech/Quicksilver-Mainnet/staking/quickvaloper1fahknp953zh6h48xmdn3ugahcag0e3vzjp9v8g</i><br>
 <b>Jackal:</b> <i>https://explorer.stavr.tech/Jackal/staking/jklvaloper1n0vm5662fk2dzu0hj47hp04q4cmj4jgjt46j8c</i><br>
 <b>Stargaze:</b> <i>https://ping.pub/stargaze/staking/starsvaloper1nx5mxte0hxf7v8az30elgqqycjjx8qt7m2c7fv</i><br>
 <b>LAVA:</b> <i>https://explorer.stavr.tech/Lava-Mainnet/staking/lava@valoper1naf29t5msrqnp2tnxmlwy5xeuvdx4kx7cly4p4</i><br>
